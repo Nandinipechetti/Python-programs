@@ -1,0 +1,9 @@
+# integer x = 1 print(x)
+print(type(x))
+
+
+# float y = 2.8
+print(y) print(type(y))
+
+# complex z = 1j print(z)
+print(type(z))
